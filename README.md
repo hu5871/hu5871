@@ -14,7 +14,7 @@
   </div>
 
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hu5871&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hu5871&show_icons=true&theme=tokyonight" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hu5871&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" /><br><br>
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
